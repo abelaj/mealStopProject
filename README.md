@@ -3,6 +3,7 @@
 ### Installing
 
 !!! MUST HAVE Node JS installed !!!
+
 1- Clone repo
 ```
 git clone https://github.com/abelaj/mealStop.git
